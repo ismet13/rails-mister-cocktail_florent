@@ -24,6 +24,8 @@ gem 'faker'
 gem 'simple_form'
 gem 'bootstrap-sass'
 
+gem 'ruby '2.4.3'
+
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
